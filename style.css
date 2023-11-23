@@ -284,7 +284,16 @@ display: flex;
         color: #fff;
     }
    .blog-content{
-    color: #fff;
+    
+    margin: auto;
+    padding: 60px 0;
+    
+   }
+   .blog-content{
+    padding: 0%;
+   }
+   .blog-right{
+    text-align: end;
    }
        
     

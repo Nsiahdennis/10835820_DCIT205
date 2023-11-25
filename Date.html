@@ -26,12 +26,16 @@
             <video autoplay muted loop class="bg-video">
                 <source src="nsiah/video-bg.mp4" type="video/mp4">
             </video>
-            <h1 id="current-tine"> 12:00:00 </h1>
             <div class="quotes">
                 <p> TODAY"S TIME</p>
-                <h2>Lost time never found again.</h2><br><br>
+                <h2>Lost time never found again.</h2> 1:00:00<br><br>
                 <p> Display live date and  time</p>
             </div>
+            <script>
+            let time = document.getElementById(current-time);
+            let d =new Date();
+            time.innerHTML = d.toLocaleTimeString();
+            </script>
         </div>
         <section class=" sub-header">
             <nav>

@@ -13,3 +13,6 @@ from our various class sessions. The git and github commands were used to set up
 
 Name: NSIAH KOFI DENNIS
 ID: 10835820
+
+## Homepage
+![Images](/images/Screenshot(6).png)

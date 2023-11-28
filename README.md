@@ -30,6 +30,12 @@ ID: 10835820
 ![Screenshot(11)](https://github.com/Nsiahdennis/10835820_DCIT205/assets/107279326/4ea1f0ca-6335-4f6b-9367-312e09ba45f9)
 
 
+## Research Group page
+
+![Screenshot(12)](https://github.com/Nsiahdennis/10835820_DCIT205/assets/107279326/03135e3c-5e6b-4644-bbd0-dceb995d83ff)
+
+
+
 
 
 

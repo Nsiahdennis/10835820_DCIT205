@@ -25,6 +25,10 @@ ID: 10835820
 ## Aboutpage
 ![Screenshot (8)](https://github.com/Nsiahdennis/10835820_DCIT205/assets/107279326/51bffeae-b9b0-4256-8229-88769cc9ce3d)
 
+## Faculty Page
+
+![Screenshot(11)](https://github.com/Nsiahdennis/10835820_DCIT205/assets/107279326/4ea1f0ca-6335-4f6b-9367-312e09ba45f9)
+
 
 
 

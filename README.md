@@ -15,4 +15,7 @@ Name: NSIAH KOFI DENNIS
 ID: 10835820
 
 ## Homepage
-![Images](/images/Screenshot(6).png)
+![Images](/nsiah/Screenshort(3).png)
+
+## About page
+![images](/nsiah/Screenshort(4).png)

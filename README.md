@@ -44,6 +44,9 @@ ID: 10835820
 
 ![Screenshot(22)](https://github.com/Nsiahdennis/10835820_DCIT205/assets/107279326/b5490f80-1d12-42ab-a98f-2e449a71fd7f)
 
+## Date page
+![Screenshot (25)](https://github.com/Nsiahdennis/10835820_DCIT205/assets/107279326/5b5ced55-0d2b-400b-b6a0-af424b7575dd)
+
 
 
 

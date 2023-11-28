@@ -39,6 +39,9 @@ ID: 10835820
 
 ![Screenshot(22)](https://github.com/Nsiahdennis/10835820_DCIT205/assets/107279326/b5490f80-1d12-42ab-a98f-2e449a71fd7f)
 
+## Featured-link page
+![Screenshot(13)](https://github.com/Nsiahdennis/10835820_DCIT205/assets/107279326/5b5252b2-fb68-40ea-afa6-89e561c8e629)
+
 
 
 

@@ -19,3 +19,49 @@ ID: 10835820
 
 ## About page
 ![images](/nsiah/Screenshort(4).png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## The learnt lessons
+The project will help me. I learnt a lot from the project which engaged me to bost my personal skills
+i will  like to say  a big thank you to Mr. Christian for helping us to develop and improved upon my ability to write a good front end 
+codes and web development as well.i would like to work on more project like this to improe upon and maintain my skills. i believe that practing like 
+this will always bost my morale to more better than as we are doing.
+

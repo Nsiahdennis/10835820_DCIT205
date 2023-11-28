@@ -34,6 +34,11 @@ ID: 10835820
 
 ![Screenshot(12)](https://github.com/Nsiahdennis/10835820_DCIT205/assets/107279326/03135e3c-5e6b-4644-bbd0-dceb995d83ff)
 
+## Event page
+
+
+![Screenshot(22)](https://github.com/Nsiahdennis/10835820_DCIT205/assets/107279326/b5490f80-1d12-42ab-a98f-2e449a71fd7f)
+
 
 
 

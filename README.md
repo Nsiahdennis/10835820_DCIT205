@@ -20,6 +20,7 @@ ID: 10835820
 
 ## About page
 ![images](/images/Screenshort(6).png)
+"C:\Users\LENOVO\Desktop\blog.html"
 
 
 

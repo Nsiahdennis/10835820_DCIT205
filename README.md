@@ -14,12 +14,8 @@ from our various class sessions. The git and github commands were used to set up
 Name: NSIAH KOFI DENNIS
 ID: 10835820
 
+
 ## Homepage
-![Images](/images/Screenshot(6).png)
-
-
-## About page
-![images](/images/Screenshort(6).png)
 
 ![Screenshot(3)](https://github.com/Nsiahdennis/10835820_DCIT205/assets/107279326/5bd87646-9e16-47d3-b297-6722ef736cae)
 

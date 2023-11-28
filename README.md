@@ -18,7 +18,7 @@ ID: 10835820
 ![Images](/images/Screenshot(6).png)
 
 ## About page
-![images](/nsiah/Screenshort(4).png)
+![images](/nsiah/Screenshort(6).png)
 
 
 

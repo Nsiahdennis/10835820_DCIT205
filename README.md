@@ -47,6 +47,10 @@ ID: 10835820
 ## Date page
 ![Screenshot (25)](https://github.com/Nsiahdennis/10835820_DCIT205/assets/107279326/5b5ced55-0d2b-400b-b6a0-af424b7575dd)
 
+## Blog page
+![Screenshot (26)](https://github.com/Nsiahdennis/10835820_DCIT205/assets/107279326/31acac33-3d5c-4e0b-bc99-d7e50ec44560)
+
+
 
 
 
